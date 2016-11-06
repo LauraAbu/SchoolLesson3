@@ -1,0 +1,6 @@
+C:\Users\abukalau\Desktop\SchoolLesson3\AverageCalculator\bin\Debug\AverageCalculator.exe.config
+C:\Users\abukalau\Desktop\SchoolLesson3\AverageCalculator\bin\Debug\AverageCalculator.exe
+C:\Users\abukalau\Desktop\SchoolLesson3\AverageCalculator\bin\Debug\AverageCalculator.pdb
+C:\Users\abukalau\Desktop\SchoolLesson3\AverageCalculator\obj\Debug\AverageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\abukalau\Desktop\SchoolLesson3\AverageCalculator\obj\Debug\AverageCalculator.exe
+C:\Users\abukalau\Desktop\SchoolLesson3\AverageCalculator\obj\Debug\AverageCalculator.pdb
